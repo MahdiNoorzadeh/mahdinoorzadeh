@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **full-stack mern blog app**
+ 🔭 I’m currently working on **My Career**
  
- 🌱 I’m currently learning **MERN, Docker, Git, Github**
+ 🌱 I’m currently learning **Back-end Programming**
 
 💬 Ask me about **Game development, General programming questions, Databases... or anything [here](https://github.com/MahdiNoorzadeh/mahdinoorzadeh/issues)**
 
