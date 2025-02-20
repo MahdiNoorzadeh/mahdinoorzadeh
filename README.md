@@ -24,10 +24,10 @@
   <a href="mailto:mahdinoorzadeh1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/mahdi-noorzadeh-7927a1218/" target="_blank">
+  <a href="https://linkedin.com/in/mahdinoorzadeh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://my-portfolio-tau-pearl-32.vercel.app/" target="_blank">
+  <a href="https://pattern-grade-a22.notion.site/Mahdi-Noorzadeh-Backend-Game-Developer-190b352e55d980babc40ef55a47ff8d2" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
      <a href="https://www.youtube.com/@MahdiNoorzadeh" target="_blank">
