@@ -24,7 +24,7 @@
   <a href="mailto:mahdinoorzadeh1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/mahdinoorzadeh" target="_blank">
+  <a href="https://linkedin.com/in/mahdinourzadeh-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://pattern-grade-a22.notion.site/Mahdi-Noorzadeh-Backend-Game-Developer-190b352e55d980babc40ef55a47ff8d2" target="_blank">
