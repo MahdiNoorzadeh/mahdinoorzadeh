@@ -83,7 +83,7 @@
   <a href="#">
     <img src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=96&animation=rainbow" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:#">
+  <a href="mailto:mahdinoorzadeh1@gmail.com">
     <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=rainbow&color=%23ef4444" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="#">
