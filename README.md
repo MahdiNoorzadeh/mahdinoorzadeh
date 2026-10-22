@@ -1,97 +1,163 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mehdi%20Nourzadehh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MahdiNoorzadeh">
-    <img src="https://komarev.com/ghpvc/?username=MahdiNoorzadeh&label=Profile%20views&color=00FFFF&style=flat-square" alt="MahdiNoorzadeh's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 🐧 Learning advanced scalability, distributed tracing & cloud-native patterns and linux
-- 🟢 Open to interesting Job opportunities & Community driven collaborations
-
-
-## 🧠 My Focus Areas
-- 🔐 Security
-- 🗃️ Databases
-- 🍣 APIs
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/MahdiNoorzadeh">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahdiNoorzadeh&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="#">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=96&animation=rainbow&color=%23ffffff" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=youtube&size=96&animation=rainbow" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mahdinoorzadeh1@gmail.com">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=rainbow&color=%23ef4444" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://mahdinoorzadeh.github.io/">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=user&size=96&animation=rainbow" alt="Website" width="40" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mehdi%20Nourzadeh&fontSize=90&fontColor=fff&animation=fadeIn&section=header&reversal=false&textBg=false" width="100%"/>
 </div>
 
+---
+
+## 🎯 Backend Engineer | API & Database Specialist
+
+<div align="center">
+
+**Building Scalable, Secure, and Performant Backend Systems**
+
+![Profile views](https://komarev.com/ghpvc/?username=MahdiNoorzadeh&label=Profile%20Views&color=0366d6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/MahdiNoorzadeh?label=Followers&style=flat&color=0366d6)
+![GitHub stars](https://img.shields.io/github/stars/MahdiNoorzadeh?label=Stars&style=flat&color=0366d6)
+
+</div>
+
+---
+
+## 💼 About Me
+
+**Backend Engineer** passionate about building robust APIs, optimizing databases, and writing clean, maintainable code. I focus on **security**, **performance**, and **scalability** while staying curious about emerging technologies and best practices in backend development. Eager to contribute to challenging projects and grow as an engineer.
+
+### 🎯 What I'm Working On
+- 🔐 Strengthening knowledge in secure API design and authentication patterns
+- 📊 Deepening expertise in database optimization and query performance
+- ☁️ Building experience with cloud-native architectures and DevOps practices
+- 🔄 Learning distributed systems concepts and asynchronous processing
+
+---
+
+## 🛠️ Technology Stack
+
+### 🔴 Programming Languages
+| C# | JavaScript | Java | Python |
+|:--:|:----------:|:---:|:---:|
+| Systems | Full-Stack | Mid-Level | Rookie |
+
+### 🟢 Backend Frameworks & Runtimes
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</div>
+
+### 💾 Databases & Data Solutions
+| **Relational** | **NoSQL** | **Caching & Search** |
+|:---:|:---:|:---:|
+| PostgreSQL | MongoDB | Redis |
+| MySQL | Firebase | SQLite |
+
+### ☁️ Cloud & Infrastructure
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+### 🛠️ Development Tools
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 My Focus Areas
+
+| 🔐 Security | 💾 Databases | 🌐 APIs |
+|:---:|:---:|:---:|
+| Authentication & encryption fundamentals | Query optimization & indexing | REST API design |
+| Secure coding practices | Connection management | Error handling & documentation |
+| Data protection | Performance tuning | Scalable endpoint design |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiNoorzadeh&show_icons=true&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=45475a&border_radius=10)](https://github.com/MahdiNoorzadeh)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiNoorzadeh&layout=compact&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=45475a&border_radius=10)](https://github.com/MahdiNoorzadeh)
+
+</div>
+
+---
+
+## 🎯 Projects & Learning
+
+### 🔐 [CipherVault](https://github.com/MahdiNoorzadeh/CipherVault)
+**Secure Token Management** — Vue.js  
+API token management system with encryption and access control implementation.
+
+### 🌍 [Spotter AI - Weather-Aware Routing](https://github.com/MahdiNoorzadeh/spotter-ai-weather-aware-routing)
+**Logistics API** — Django REST Framework + React  
+Backend service for weather-aware route optimization using real-time data.
+
+### 🔗 [URL Shortener Service](https://github.com/MahdiNoorzadeh/url-shortener)
+**Backend Service** — Java  
+URL shortening service exploring database optimization and API design patterns.
+
+### 🫆 [Dekstop Application](https://github.com/MahdiNoorzadeh/CipherVault)
+**CipherVault** — Vue  
+A secure, easy-to-use token management application built with Electron.
+
+---
+
+## 📚 Currently Learning
+
+- 🏗️ System design principles and architectural patterns
+- 🔗 Distributed systems and asynchronous architectures
+- 🐧 Linux fundamentals and command-line proficiency
+- 🤝 Open source contribution and community engagement
+
+---
+
+## 🌟 What I'm Looking For
+
+- 💼 Backend development roles where I can grow and contribute meaningfully
+- 🤝 Mentorship opportunities and code review feedback
+- 🚀 Projects involving scalability, security, and performance optimization
+- 🌐 Collaborative teams that value clean code and best practices
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahdinoorzadeh1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mahdinoorzadeh.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahdiNoorzadeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+**🎓 Passionate backend engineer building better systems, one API at a time**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Learning+scalable+architectures.;Building+secure+APIs.;Growing+as+an+engineer.)
+
+</div>
+
+---
+
+<div align="center">
+
+*Last updated: October 2026*
+
+</div>
