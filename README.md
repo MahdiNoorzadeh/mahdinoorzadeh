@@ -109,10 +109,6 @@ Backend service for weather-aware route optimization using real-time data.
 **Backend Service** — Java  
 URL shortening service exploring database optimization and API design patterns.
 
-### 🫆 [Dekstop Application](https://github.com/MahdiNoorzadeh/CipherVault)
-**CipherVault** — Vue  
-A secure, easy-to-use token management application built with Electron.
-
 ---
 
 ## 📚 Currently Learning
